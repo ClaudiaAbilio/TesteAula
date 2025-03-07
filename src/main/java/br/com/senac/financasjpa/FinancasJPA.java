@@ -12,6 +12,8 @@ package br.com.senac.financasjpa;
 public class FinancasJPA {
 
     public static void main(String[] args) {
+        System.out.println("Hello World !");
         System.out.println("Ola Galera !");
+        System.out.println("Prontos para a aula ? !");
     }
 }
